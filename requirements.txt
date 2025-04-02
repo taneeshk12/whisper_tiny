@@ -1,0 +1,8 @@
+flask
+gunicorn
+openai-whisper
+torch
+torchaudio
+sounddevice
+numpy
+scipy

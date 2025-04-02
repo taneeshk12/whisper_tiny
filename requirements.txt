@@ -6,4 +6,5 @@ torchaudio
 sounddevice
 numpy
 scipy
-pyaudio
+sounddevice
+soundfile

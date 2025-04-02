@@ -6,5 +6,4 @@ torchaudio
 sounddevice
 numpy
 scipy
-portaudio
 pyaudio

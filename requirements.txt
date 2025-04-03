@@ -7,3 +7,5 @@ sounddevice
 numpy
 scipy
 ffmpeg-python
+faster-whisper
+
